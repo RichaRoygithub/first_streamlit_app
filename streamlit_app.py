@@ -8,4 +8,7 @@ streamlit.text('🍞Idli sambhar')
 streamlit.text('🍞dosa chutney')
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+streamlit.text('🍌Banana')
+streamlit.text('🥭Mango')
+streamlit.text('🍇grapes')
 
